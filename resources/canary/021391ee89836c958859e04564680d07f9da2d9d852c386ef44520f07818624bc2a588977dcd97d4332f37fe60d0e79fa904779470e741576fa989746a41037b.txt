@@ -10,7 +10,7 @@ Aucune requête demandant la corruption d'un de mes articles provenant de France
 Aucune requête demandant la corruption d'un de mes articles provenant de l'étranger
 Aucune requête demandant la corruption d'un de mes articles provenant du gouvernement Français
 Aucune requête demandant la corruption d'un de mes articles provenant d'un gouvernement étranger
-Aucune requête mentionnant le fait que je dois dois garder le secret
+Aucune requête mentionnant le fait que je dois garder le secret
 
 Et quelques news afin de prouver que c'est bien à jour:
 
@@ -22,17 +22,17 @@ xoxo,
 Sabri Haddouche.
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJVZswCAAoJEDnng9Nzi56gS/oQAMCroIDj5ifYgwTcU2+3W5ke
-knq6S7F1DKAfVAfVxL/KM0bHQ2tNTldou3s47awUZeArSZmzfQyfW4cjeLBU+tV0
-onCKM6ax4HB72gS5elDxnJ8yx3nEbLtYypmNrxD+ZndQcqIQ0+S0WnaQUrGHPa7y
-Df1zeQf7P9dmFMwrgc/cDoDf2ZoYft/3Ydrl+xqn/pJWDH6QlyzqyyD7hJJgGKID
-wggPJCmfCtSI37/WbOwTGClxykujOxiPVQEfFTRc9mI/6ihF+wC425g6CYxrU9hP
-nISkQmZ4vxmoAsd/vALsmb2acEAi9BFOJiA8RiWfTWzRGDi5VPQYCFWhJsezomT9
-XGbyHHsugIUW+PRe0vBHUnJRgwtYWaL8GmmIuBMQNrWDlw4uy8HrYLZ7QorUm5TT
-lbsQHNbVe10H4ZhaLVQRbfqREz+71VWH6t7+JYMtijbL/tpi26N8OgwnZVVdGKmy
-lRNDDaSuTJUO68ImZ+uWNZ57fdO2KdORXapTphcvr2kd8p/xF4Vo1rLoMHU8yYLv
-s2N0t5bkVbTRyUZx5Gx2B8Bf5q4SRkvPB6WC7IWGP9uvKMMh8f8gpRbjVxqfO+IU
-ilC/4dKx+DR0/vxe/DTnjlSXI+jNhcXjh4aX/SmRFSIYiJgBPT0AMLW0PbzQMsPU
-VrR6saszCwVKrMEMMs6N
-=/qmF
+iQIcBAEBCgAGBQJVZsz4AAoJEDnng9Nzi56gPfMP+wUJ9vkZNkFoyZIvQiH4fs2z
+mFVEnpAo7sF4sGEN1yADL4kLq84HlITTz8eDoKBbfa60l9KSOwEpfULJ9y0wvmOZ
+m6Ngd7zuQxcb72+P1DiLIffPbZfdNsJA6rev1bUKWUcY/e0FtBkQ21s9hfcQZj6w
+DlnAtaP7PYGUSPVn6VfV/Ri5tC47uQmCZk2OAzRT4Q4QC/THEft4lCC+Xl7BeA73
+n8nyt8W2Ib7VKBlsfQGCZo5NyXWn+4wMjoDTzkbBHIRqjF5nN1YuOZ78Ly1ds169
+uSuACPwsKgLsGbL+bYAVLBCJMKxei03C/iVAZ3MkpFtXqUh/uXulB9S3vlaeZ5Ji
+I5hzkuf5itrxOGhG9ZMF16vIppghVbEQ9GVKP+uotQECKpNkEPHambqohh2mYpJN
+6EMMJKIexNZjTDIuAZMZH/wfKIIajUkb64MKkx+FXqP/9kz9wqO9B5AenBrKta10
+k/xSWe1Roc+A7/CDPOdgvHifGpJVpCVevz/TiuJoov7k72WwXui2TQhswoGDYswJ
+xr7w2khFoHxgr3YsNdpjbL1lZY/+GZPJ8ebDabMeWRKd3hXhvJRYWOKEyLm+2tQK
+0TFisRIvJKNPUOj9c2pmCIZ6DRab00YpFioIpBInzE4kKwQAqHs9yUp95fc52VD7
+3Sl5Z4zDU6uevm9z2iEg
+=2/i/
 -----END PGP SIGNATURE-----
