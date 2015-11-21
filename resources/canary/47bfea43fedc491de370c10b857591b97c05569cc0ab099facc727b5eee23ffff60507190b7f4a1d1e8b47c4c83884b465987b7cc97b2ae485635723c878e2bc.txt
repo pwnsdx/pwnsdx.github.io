@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Statut: Tout est bon.
+Période: 28 Juillet au 28 Octobre 2015
+
+Durant cette période, j'ai reçu:
+0 requête demandant la modification d'un de mes articles
+0 requête concernant l'un de mes clients
+0 requête me forçant à garder le secret
+
+Important: Le Warrant Canary est désormais trimestriel, le prochain sera effectif le 28 Janvier 2015.
+
+Cordialement,
+Sabri Haddouche.
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCAAGBQJWUJfOAAoJEGPzVk3kVtr7v6EP/3HzjtKwa0OAZRe6Ntz5fMCQ
+sP0JNRCp6YVkw7ItfFCAEgloL8UZjao6b3UXUcw6XJb/+y/mu78IanuancvJHeKP
+em/uISvFnBZqe6s+pEvhPAh53qqO8NWsUmScVs50oa48n/67I3VJlzGtNHyV+vkA
+d0ivdL4AZhuYYqXg/A0LW8UIhdMV22CRT8haDCyoKgU+LJLoSaFQOzKNOjYx6UoR
+JkJQ2v1UZIb51IuBbPeFmnk8rzs9evztkltcYc3OrvflVtH8kI1BoNX5oBhAXN8M
+hyxOvorpQSM8j8orGOGiN11J6ZtF0S2ciJuENg4yEvax0R2pbWyJqQp7GymdXMPJ
+MMhsaH+eDjhdoPDU2q9RJ2RY10E/G6h8HGAPZ+9oQ3g0uVQZd5JsgF0JwdqlYDv1
+GKmNwYgSlCT4d8M5wMsE1S1kX86ylPoNVP4VcPzwj2DN8pbTocl6cV9l+lcXMIm8
++JqS+XiAV+eSbmtmuxCPfs68/9lfHCSNxYtjHczb8vKUd6nzatDcBJrC4jrkhdMg
+IeF/r8PXPJhb1WXZc7qPNQAMHTOnKG+1esbEMZbZ8wlgyDsamUrdbbmgx/qUBcIt
+DNHBkkYflGUa/pouIlFmy88VAaVV2g6XqrGKtpYQycfJF4y7Ufky807zFH0ciw+0
+ik06vsaTltTpYFREwbyX
+=xx07
+-----END PGP SIGNATURE-----
