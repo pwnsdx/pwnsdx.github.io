@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Statut: Tout est bon.
+Période: 28 Octobre 2015 au 28 Mars 2016
+
+Durant cette période, j'ai reçu:
+0 requête me demandant la suppression ou l'altération d'un de mes articles
+0 requête me demandant d'ajouter des backdoors au sein de mes logiciels
+0 requête me demandant la divulgation d'informations d'un de mes clients
+0 visite d'agents secrets (DGSI, DGSE ou autres barbouzes nationales et/ou internationales)
+0 requête me forçant à garder le secret
+
+- --
+
+Pour vérifier l'authenticité des conversations avec moi, veuillez vérifier les signatures cryptographiques :
+
+* Wire
+Computer - b2 68 c2 22 7c fb 30 0d b2 a4 ec e9 c8 ec ac a9 30 97 b3 5e 2b ea b6 0f a7 c3 f4 06 ea 40 a5 ed
+Smartphone - 60 64 ce b5 49 ef 49 5b 8f f8 2e 8c dc ba 2d 88 01 b1 e7 29 c4 fd 9f d8 2f 22 55 09 ba 3e 75 96
+
+* Signal
+Smartphone - 05 76 25 bc 1e 01 f2 f1 c9 dc 21 47 6b 0d 80 2b 66 b8 42 77 a1 7d 83 f7 00 78 ff eb dc ee 08 0a 46
+
+* Cryptocat
+Computer - 21 76 a5 e1 92 ad 8d 1f 00 87 1f af 3e 2c 24 89
+
+- --
+
+Important: Le Warrant Canary n'a pas été mis à jour depuis longtemps suite à un oubli. Le prochain est prévu pour Septembre 2016 (sauf si changement de signature entre temps).
+
+Signed: Sabri Haddouche <sabri@riseup.net>
+-----BEGIN PGP SIGNATURE-----
+Comment: GPGTools - https://gpgtools.org
+
+iQIcBAEBCgAGBQJW+yE8AAoJEDnng9Nzi56gVVQP/0nVafJeFIWmejgAwnBglNSE
+VN3F5lu5JJEeVfG8e0cNJkVSczF/goqlWkZsLnziFDbFSRyX/GLIOv3eNwLA3zZP
+/4wo8xhJZJmqkZ+gCvHNwxo8Ctxsn+TAdBqWfI2f+sQCT6v01gWwdUbtT4bGYtZK
+jx4pguCXtpV2w3WTyC5LqIXi2SmlCIlnNbq3LV9XIW9lvHqQcxhY5HjWCJbP1OXf
+gU94zmt8hseiAJKEb3s196JW/eJPZeDaEqhi+o8oJFBm2hlh94HFySkmgvYVlwjJ
+qtWkL7pQ36xxmbgcJMK7ZO5dRyJjjcjG9gksNytwhFcceHEGv7oy23dZVETbgqpG
+6AhjJLDnucxc5emq0IrZ5AoJU4MhBy7VTPFAXKs0a9XI02dstFH37stUQs94jOqo
+A/Jy6w6tlI/RYtk1rBK2m8q5bdNstWyL6EHEY/cJlfuXWcUtRCbqFTaMA7COp5dL
+xx+8514MyVt5Sp6nl2c1Dyof5FWEgTXJv6O4u/ySqhalz+UBMbXfs2nQXqIdvHRn
+HMArRfjVPGo0EEkEYzvVbvzHUT6Iihc1I467ZsmtSdCwKa/IJWgcceVE5CRo3kr9
+Wi7d4P8L0X3LWvAui8kkHWDSB94iBk0efCqMDEMWBisU5z2wTB8rOEi1ZlAZ3AiR
+fURTZZ8BPl7zeVE/pcEb
+=nY7R
+-----END PGP SIGNATURE-----
